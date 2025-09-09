@@ -1,3 +1,22 @@
+# Hi there, I'm Shubham Shah 👋
+
+## 💻 About Me
+I'm a B.Tech CSE student at **DIT University (2023–2027)** with a passion for **AI and ML**. I love turning ideas into projects and constantly **exploring new AI**.  
+  
+- 🔭 Currently working on AI & ML projects  
+- 🌱 Learning **Python, Machine Learning, and Artificial intelligence**  
+- 💬 Ask me about **Python, DSA, Arduino, AI & ML**
+
+## 📂 Projects
+Here are some of my notable projects:  
+
+- **Bank Management System** – Built using **C**  
+- **Student Directory** – Implemented using **DSA**  
+- **Obstacle Avoiding Robot** – Developed using **Arduino**  
+- **LI-Fi Project** – School level tech project  
+- **Tesla Coil** – School level tech project  
+
+> More projects coming soon! 🚀
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/shubham.shah.743) 
